@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+annotations.tar.gz
+annotations/
+images.tar.gz
+images/
+
+
+
